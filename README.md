@@ -55,7 +55,6 @@
   <img align="center" alt="Tul-PowerBI" height="30" width="60" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
   <img align="center" alt="Tul-conda" height="30" width="70" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
 </div>
-</div>
 
 <p align="left">
   
