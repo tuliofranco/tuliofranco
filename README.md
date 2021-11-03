@@ -50,6 +50,9 @@
   <img align="center" alt="Tul-ubuntu" height="30" width="60" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align="center" alt="Tul-tensor" height="30" width="70" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img align="center" alt="Tul-pandas" height="30" width="60" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+</div>
+  
+  <div style="display: inline_block"><br>
   <img align="center" alt="Tul-keras" height="30" width="50" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
   <img align="center" alt="Tul-sklearn" height="30" width="70" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img align="center" alt="Tul-PowerBI" height="30" width="60" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
