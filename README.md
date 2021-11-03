@@ -20,14 +20,14 @@
 
 <p align="left">
   💌 Fiquem a vontade para entrarem em contato comigo: ⤵️
-
+<div>
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tuliofrancopr@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/tulio-franco/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tulio-franco/" /></a>
+  <a href="tuliofrancopr@gmail.com" alt="Gmail"  height="40" width="80">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>  
+  </div>
+  
 <p align="left">
   👨🏽‍💻 Principais tecnologias: ⤵️
 <p align="left">
