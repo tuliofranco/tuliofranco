@@ -57,6 +57,7 @@
   <img align="center" alt="Tul-conda" height="30" width="70" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
   <img align="center" alt="Tul-slack" height="30" width="50" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img align="center" alt="Tul-postgres" height="30" width="70" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="Tul-teams" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
 </div>
 
 <p align="left">
