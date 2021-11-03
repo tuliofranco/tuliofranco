@@ -1,13 +1,16 @@
 # *Seja bem vindo ao meu perfil!*
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 <p align="left"> 
   Meu nome é Túlio Franco, nasci no interior de Minas Gerais e atualmente moro em São José dos Campos. Faço faculdade de Ciências da Computação e sou apaixonado por tecnologia, em especial, para a área de Ciência de dados.
 </p>
-
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+  
+  
+  
 <p align="left">
+  
+  
   🦄 Linguagens: <strong>Python, R, SQL e C.</strong>
 </p>
 
