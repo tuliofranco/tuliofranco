@@ -41,9 +41,6 @@
   <img align="center" alt="Tul-windows" height="30" width="70" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="Tul-slack" height="30" width="50" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img align="center" alt="Tul-postgres" height="30" width="70" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Tul-conda" height="30" width="50" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
-  <img align="center" alt="Tul-PowerBI" height="30" width="60" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tul-scipy" height="30" width="50" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
   <img align="center" alt="Tul-numpy" height="30" width="50" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
@@ -55,6 +52,9 @@
   <img align="center" alt="Tul-pandas" height="30" width="60" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   <img align="center" alt="Tul-keras" height="30" width="50" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
   <img align="center" alt="Tul-sklearn" height="30" width="70" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img align="center" alt="Tul-PowerBI" height="30" width="60" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+  <img align="center" alt="Tul-conda" height="30" width="70" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+</div>
 </div>
 
 <p align="left">
