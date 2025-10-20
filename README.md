@@ -1,84 +1,58 @@
-# *Seja bem vindo ao meu perfil!*
+# 👋 Olá! Eu sou o Túlio Franco
 
+**Software Engineer | Golang | C# | .NET | AWS**  
+São José dos Campos, SP — Brasil
 
-<p align="left"> 
-  Meu nome é Túlio Franco, nasci no interior de Minas Gerais e atualmente moro em São José dos Campos. Faço faculdade de Ciências da Computação e sou apaixonado por tecnologia, em especial, para a área de Ciência de dados.
-</p>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-  
-  
-  
-<p align="left">
-  
-  
-  🦄 Linguagens: <strong>Python, R, SQL e C.</strong>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-franco/)
+[![E-mail](https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuliofrancopr@gmail.com)
 
-<p align="left">
-  💼 Ferramentas: <strong>Jupyter notebook, PostgresSQL, Power BI, Power Automate.</strong>
-</p>
+---
 
-<p align="left">
-  💌 Fiquem a vontade para entrarem em contato comigo: ⤵️
-<div>
-<p align="left">
-  <a href="tuliofrancopr@gmail.com" alt="Gmail"  height="40" width="80">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tulio-franco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>  
-  </div>
-  
-<p align="left">
-  👨🏽‍💻 Principais tecnologias: ⤵️
-<p align="left">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tul-Py" height="30" width="60" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Tul-Rr" height="30" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img align="center" alt="Tul-flask" height="30" width="60" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img align="center" alt="Tul-sqlite" height="30" width="60" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img align="center" alt="Tul-linux" height="30" width="60" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
-  <img align="center" alt="Tul-windows" height="30" width="70" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tul-scipy" height="30" width="50" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
-  <img align="center" alt="Tul-numpy" height="30" width="50" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  <img align="center" alt="Tul-plotly" height="30" width="60" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-  <img align="center" alt="Tul-jupyter" height="30" width="60" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img align="center" alt="Tul-selenium" height="30" width="60" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img align="center" alt="Tul-ubuntu" height="30" width="60" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img align="center" alt="Tul-tensor" height="30" width="70" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img align="center" alt="Tul-pandas" height="30" width="60" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Tul-keras" height="30" width="50" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-  <img align="center" alt="Tul-sklearn" height="30" width="70" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img align="center" alt="Tul-PowerBI" height="30" width="60" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-  <img align="center" alt="Tul-conda" height="30" width="70" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
-  <img align="center" alt="Tul-slack" height="30" width="50" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img align="center" alt="Tul-postgres" height="30" width="70" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Tul-teams" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
-</div>
+## Sobre
+Engenheiro de Software com experiência em **sistemas distribuídos**, **APIs de alta performance** e **automação de processos**. Trabalho com **.NET/C#** e **Golang**, aplicando **DDD**, **Arquitetura Hexagonal** e **observabilidade** (logs, métricas e tracing) para entregar soluções **escaláveis, seguras e fáceis de manter**.
 
-<p align="left">
-  
-  
-  
-  
-  # <strong> *Projetos de Portfólio:*</strong>
-</p>
+- 💼 Atual: **Engenheiro de Software** (Go) no setor automotivo  
+- 🧭 Interesses: performance backend, boas práticas, plataformas em nuvem e produto
+- 🚀 Objetivo: atuar em times de alto impacto, com ownership e entrega contínua
 
-<p align="left">
-  
-  
- ### Regressão:
-</p>
+---
 
-[Predição de doenças cardiovasculares.](https://github.com/tuliofranco/Cardiovascular-Predict)
+## Stack principal
+**Linguagens:** C#, Golang, TypeScript  
+**Plataforma:** .NET, ASP.NET Core, gRPC, Worker Services  
+**Cloud & DevOps:** AWS (EC2, ECS/EKS, S3, RDS, CloudWatch), Docker, Kubernetes, GitHub Actions  
+**Banco & Mensageria:** PostgreSQL, Redis, (eventos / filas)  
+**Qualidade & Observabilidade:** xUnit, FluentValidation, Serilog, OpenTelemetry, Grafana/Tempo/Loki  
+**Arquitetura:** DDD, Clean/Hexagonal, CQRS, Outbox/Inbox, Modular Monolith, Microservices
 
+---
 
+## O que estou fazendo agora
+- Evoluindo um **backend em Go** com foco em **escalabilidade** no setor automotivo  
+- Construindo projetos próprios em **.NET 9** com **DDD + Modular Monolith**  
+- Praticando **design de sistemas** e padrões de concorrência (especialmente em Go)
 
-<p align="left"> 
-  A construção de um Modelo de Machine Learning para detectar doenças cardiovasculares em estágios iniciais aproveita a precisão diagnóstica feita pelos profissionais de saúde. Neste projeto, desenvolvi um modelo de Machine Learning capaz de detectar doenças em estágios iniciais com 65% de precisão acima de 70 mil pacientes. O desempenho desse modelo aumentaria a receita em US$ 81,2 milhões de acordo com o modelo de negócios da empresa descrito na definição do problema.
-</p>
+---
 
+## Projetos de Portfólio
+> Alguns projetos são privados por conter dados sensíveis; abaixo estão resumos e repositórios públicos quando disponíveis.
+
+- **SmartGas** — plataforma de **gestão de cilindros, logística e financeiro**  
+  _Stack:_ .NET/C#, ASP.NET Core, PostgreSQL, Docker, DDD/Hexagonal, JWT, OpenTelemetry  
+  _Destaques:_ módulos Identity/Autorização, controle de estoque e entregas, rastreio e relatórios
+
+- **BrainEstar/Neurolab** — SaaS para clínicas de **EEG**  
+  _Stack:_ .NET + Python (conversões EDF→CSV), S3 com criptografia, multi-tenant (clínica/médico/paciente)  
+  _Destaques:_ upload seguro, trilhas de auditoria, contratos e SLAs definidos
+
+- **Cardiovascular Predict (ML)** — (legado de Data Science)  
+  _Resumo:_ modelo de classificação em base de 70k+ pacientes com documentação de negócio  
+  _Obs.:_ Mantido como histórico; hoje meu foco é **backend** e **plataformas**
+
+> Repositórios públicos adicionais: (adicione aqui links relevantes do seu GitHub quando quiser destacar)
+
+---
+
+## Conteúdo & contato
+Estou sempre aberto a trocar ideias sobre arquitetura, carreira e boas práticas.  
+**Vamos conversar:** [tuliofrancopr@gmail.com](mailto:tuliofrancopr@gmail.com) • [LinkedIn](https://www.linkedin.com/in/tulio-franco/)
