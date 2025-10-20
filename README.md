@@ -48,7 +48,6 @@ Engenheiro de Software com experiência em **sistemas distribuídos**, **APIs de
   _Resumo:_ modelo de classificação em base de 70k+ pacientes com documentação de negócio  
   _Repositório:_ **https://github.com/tuliofranco/Cardiovascular-Predict**
 
-> Repositórios públicos adicionais serão listados conforme eu os for abrindo.
 
 ---
 
