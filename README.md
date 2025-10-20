@@ -35,21 +35,20 @@ Engenheiro de Software com experiência em **sistemas distribuídos**, **APIs de
 ---
 
 ## Projetos de Portfólio
-> Alguns projetos são privados por conter dados sensíveis; abaixo estão resumos e repositórios públicos quando disponíveis.
 
 - **SmartGas** — plataforma de **gestão de cilindros, logística e financeiro**  
   _Stack:_ .NET/C#, ASP.NET Core, PostgreSQL, Docker, DDD/Hexagonal, JWT, OpenTelemetry  
-  _Destaques:_ módulos Identity/Autorização, controle de estoque e entregas, rastreio e relatórios
+  _Repositório:_ **https://github.com/tuliofranco/SmartGas**
 
 - **BrainEstar/Neurolab** — SaaS para clínicas de **EEG**  
-  _Stack:_ .NET + Python (conversões EDF→CSV), S3 com criptografia, multi-tenant (clínica/médico/paciente)  
-  _Destaques:_ upload seguro, trilhas de auditoria, contratos e SLAs definidos
+  _Stack:_ .NET + Python (conversões EDF→CSV), S3 com criptografia, multi-tenant  
+  _Destaques:_ upload seguro, trilhas de auditoria, contratos e SLAs
 
 - **Cardiovascular Predict (ML)** — (legado de Data Science)  
   _Resumo:_ modelo de classificação em base de 70k+ pacientes com documentação de negócio  
-  _Obs.:_ Mantido como histórico; hoje meu foco é **backend** e **plataformas**
+  _Repositório:_ **https://github.com/tuliofranco/Cardiovascular-Predict**
 
-> Repositórios públicos adicionais: (adicione aqui links relevantes do seu GitHub quando quiser destacar)
+> Repositórios públicos adicionais serão listados conforme eu os for abrindo.
 
 ---
 
