@@ -36,6 +36,11 @@ Engenheiro de Software com experiência em **sistemas distribuídos**, **APIs de
 
 ## Projetos de Portfólio
 
+- **Order Service** — POC de **sistema de pedidos** com foco em **resiliência, mensageria e observabilidade**  
+  _Stack:_ .NET 9, Clean Architecture, PostgreSQL, Azure Service Bus, Worker Service, Outbox Pattern, SignalR, Testcontainers, Docker  
+  _Destaques:_ processamento assíncrono de pedidos, idempotência, integração worker + API, testes de integração com Testcontainers e observabilidade completa (logs estruturados, health checks)  
+  _Repositório:_ **https://github.com/tuliofranco/order-service**
+
 - **SmartGas** — plataforma de **gestão de cilindros, logística e financeiro**  
   _Stack:_ .NET/C#, ASP.NET Core, PostgreSQL, Docker, DDD/Hexagonal, JWT, OpenTelemetry  
   _Repositório:_ **https://github.com/tuliofranco/SmartGas**
@@ -47,7 +52,6 @@ Engenheiro de Software com experiência em **sistemas distribuídos**, **APIs de
 - **Cardiovascular Predict (ML)** — (legado de Data Science)  
   _Resumo:_ modelo de classificação em base de 70k+ pacientes com documentação de negócio  
   _Repositório:_ **https://github.com/tuliofranco/Cardiovascular-Predict**
-
 
 ---
 
